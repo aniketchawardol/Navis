@@ -2,6 +2,8 @@
 
 **Navis — Event-Driven Congestion Decision Platform for Bengaluru Traffic Police**
 
+Demo-video link: https://drive.google.com/file/d/1Zk1CbKtLSreG7PMaxOGkVOE5WMQp_pX0/view?pli=1
+
 > How can historical and real-time data be used to forecast event-related traffic impact and recommend optimal manpower, barricading, and diversion plans?
 
 ## What It Does
